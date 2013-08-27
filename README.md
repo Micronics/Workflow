@@ -1,4 +1,4 @@
 Workflow
 ========
 
-Repository used to test ans practice the GitHub/Git workflow
+Repository used to test and practice the GitHub/Git workflow
